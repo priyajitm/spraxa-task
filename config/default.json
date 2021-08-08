@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv://priyajit:indiatimes@cluster0.bb04n.mongodb.net/spraxa?retryWrites=true&w=majority"
+  }
